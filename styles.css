@@ -1,0 +1,15 @@
+/*
+Style.css
+
+css comment
+*/
+body{
+	background-color: blue;
+}
+p	{
+	background-color: Green;
+}
+span{
+		background-color: Black;
+		color: white; 
+}
